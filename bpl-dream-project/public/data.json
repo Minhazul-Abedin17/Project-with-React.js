@@ -1,0 +1,164 @@
+[
+  {
+    "Playername": "Shakib Al Hasan",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/56143.png",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Slow Left-Arm Orthodox",
+    "battingStyle": "Left-Handed",
+    "price": 300
+  },
+  {
+    "Playername": "Virat Kohli",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/253802.png",
+    "origin": "India",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-Arm Medium",
+    "battingStyle": "Right-Handed",
+    "price": 500
+  },
+  {
+    "Playername": "Babar Azam",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/348144.png",
+    "origin": "Pakistan",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-Arm Off Break",
+    "battingStyle": "Right-Handed",
+    "price": 100
+  },
+  {
+    "Playername": "Rashid Khan",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/793463.png",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-Arm Leg Break",
+    "battingStyle": "Right-Handed",
+    "price": 500
+  },
+  {
+    "Playername": "Jos Buttler",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/308967.png",
+    "origin": "England",
+    "playerType": "Wicketkeeper-Batter",
+    "bowlingStyle": "Right-Arm Medium",
+    "battingStyle": "Right-Handed",
+    "price": 200
+  },
+  {
+    "Playername": "Trent Boult",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/277912.png",
+    "origin": "New Zealand",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-Arm Fast-Medium",
+    "battingStyle": "Left-Handed",
+    "price": 500
+  },
+  {
+    "Playername": "Mustafizur Rahman",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/330902.png",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-Arm Fast-Medium",
+    "battingStyle": "Left-Handed",
+    "price": 200
+  },
+  {
+    "Playername": "Rohit Sharma",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/34102.png",
+    "origin": "India",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-Arm Off Break",
+    "battingStyle": "Right-Handed",
+    "price": 500
+  },
+  {
+    "Playername": "Shaheen Afridi",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/1072472.png",
+    "origin": "Pakistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-Arm Fast",
+    "battingStyle": "Left-Handed",
+    "price": 500
+  },
+  {
+    "Playername": "Andre Russell",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/276298.png",
+    "origin": "West Indies",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-Arm Fast",
+    "battingStyle": "Right-Handed",
+    "price": 200
+  },
+  {
+    "Playername": "Glenn Maxwell",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/325026.png",
+    "origin": "Australia",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-Arm Off Break",
+    "battingStyle": "Right-Handed",
+    "price": 500
+  },
+  {
+    "Playername": "Kane Williamson",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/277906.png",
+    "origin": "New Zealand",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-Arm Off Break",
+    "battingStyle": "Right-Handed",
+    "price": 100
+  },
+  {
+    "Playername": "David Warner",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/219889.png",
+    "origin": "Australia",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-Arm Leg Break",
+    "battingStyle": "Left-Handed",
+    "price": 500
+  },
+  {
+    "Playername": "Quinton de Kock",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/379143.png",
+    "origin": "South Africa",
+    "playerType": "Wicketkeeper-Batter",
+    "bowlingStyle": "Right-Arm Medium",
+    "battingStyle": "Left-Handed",
+    "price": 500
+  },
+  {
+    "Playername": "Hardik Pandya",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/625371.png",
+    "origin": "India",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-Arm Fast-Medium",
+    "battingStyle": "Right-Handed",
+    "price": 200
+  },
+  {
+    "Playername": "Tamim Iqbal",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/56194.png",
+    "origin": "Bangladesh",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-Arm Off Spin",
+    "battingStyle": "Left-Handed",
+    "price": 300
+  },
+  {
+    "Playername": "Jasprit Bumrah",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/625383.png",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-Arm Fast",
+    "battingStyle": "Right-Handed",
+    "price": 500
+  },
+  {
+    "Playername": "Ben Stokes",
+    "playerimg": "https://a.espncdn.com/i/headshots/cricket/players/full/311158.png",
+    "origin": "England",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Left-Arm Fast-Medium",
+    "battingStyle": "Left-Handed",
+    "price": 400
+  }
+]
