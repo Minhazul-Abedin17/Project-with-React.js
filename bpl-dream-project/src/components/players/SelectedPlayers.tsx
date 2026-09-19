@@ -8,6 +8,7 @@ interface ISelectedPlayersProps {
   coin: number;
   setCoin: Dispatch<SetStateAction<number>>;
 }
+
 const SelectedPlayers = ({
   selectePlayers,
   setSelectPlayers,

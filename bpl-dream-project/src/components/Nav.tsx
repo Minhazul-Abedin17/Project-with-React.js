@@ -1,4 +1,3 @@
-
 import Logo from '../assets/assets/logo.png'
 import { FaSackDollar } from 'react-icons/fa6';
 
